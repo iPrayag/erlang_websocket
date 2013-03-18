@@ -95,16 +95,14 @@ h3. Requirements:
 
 h3. Getting Started:
  
- # download the code
- # CD into the erlang_websocket directory
- # run make
+ # `git clone` the code
+ # `$ cd erlang_websocket` directory
+ # run `$ make`
 
 h3. Run the example:
 
- # CD into the examples/basic directory
- # run the 'start.sh' script
- # Point the Chrome Browser to 'http://localhost:8000'
-
-
+ # `cd examples/basic` directory
+ # run the `$./start.sh` script
+ # Point the Chrome Browser to `http://localhost:8000`
     
  
